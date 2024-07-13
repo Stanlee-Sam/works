@@ -21,7 +21,7 @@ const worksData = [
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati rerum ratione voluptas porro blanditiis recusandae qui quidem deleniti labore deserunt, nemo suscipit. Amet id, ipsam temporibus, non itaque ipsum dolore est a nesciunt reprehenderit excepturi nostrum. Eos maiores asperiores possimus!"
       },
       {
-        imgSrc: "/src/assets/works/component.jpeg",
+        imgSrc: "/src/assets/works/component.png",
         title: "Components",
         year: "2018",
         category: "Components, Design",
